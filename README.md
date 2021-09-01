@@ -1,2 +1,9 @@
 # KalmanFilter
-Simple implementation of kalman filter
+
+## **Kalman Filter Formula**
+![Formula](formula.png)
+
+---
+
+## Experiment Result
+![Result](result.jpg)
