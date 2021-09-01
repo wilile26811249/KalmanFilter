@@ -6,4 +6,4 @@
 ---
 
 ## Experiment Result
-![Result](result.jpg)
+![Result](result.JPG)
